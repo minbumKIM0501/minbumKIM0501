@@ -1,6 +1,6 @@
 ### Hi My name is min beom KIM  👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=minbeomKIM&fontSize=90)
-<a href="[https://instagram.com/alpox.dev](https://www.instagram.com/giant_minboom/)">
+<a href="[https://www.instagram.com/giant_minboom/](https://www.instagram.com/giant_minboom/)">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
