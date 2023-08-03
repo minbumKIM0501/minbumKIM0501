@@ -1,5 +1,5 @@
 ### Hi My name is min beom KIM  👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=s%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minbeomKIM&fontSize=90)
 <a href="https://www.instagram.com/giant_minboom/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbumKIM0501&show_icons=true&theme=radical)
