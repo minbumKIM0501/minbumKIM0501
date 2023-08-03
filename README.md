@@ -1,4 +1,3 @@
-### Hi My name is min beom KIM  👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=minbeomKIM&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbumKIM0501&show_icons=true&theme=radical)
